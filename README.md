@@ -4,9 +4,10 @@
 
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Front-end%20web%20developer;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=9b59b6&vCenter=true&size=22">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Front-end%20web%20developer;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=linear-gradient(to right, #6a4c9c, #9b59b6)&vCenter=true&size=22">
   </a>
 </p>
+
 
 
 💻 I'm a computer science student at An-Najah University, passionate about web development and learning new technologies.
