@@ -12,7 +12,7 @@
 
 
 
-💻 I'm a computer science student at An-Najah University, passionate about web development and learning new technologies.
+💻 I'm a CAP student at An-Najah University, passionate about web development and learning new technologies.
 
 ---
 
